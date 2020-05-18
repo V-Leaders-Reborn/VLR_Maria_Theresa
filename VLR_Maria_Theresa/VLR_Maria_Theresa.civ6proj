@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>V Leaders Reborn - Maria Theresa</Name>
+    <Guid>91d0d6eb-7ec0-4ac9-9ee5-659d7143540c</Guid>
+    <ProjectGuid>f3429861-7ac4-4535-ae39-e792c63c9afc</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>V Leaders Reborn - Maria Theresa</Teaser>
+    <Description>V Leaders Reborn - Maria Theresa</Description>
+    <Authors>Del</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>VLR_Maria_Theresa</AssemblyName>
+    <RootNamespace>VLR_Maria_Theresa</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="MT_Art"><Properties><LoadOrder>10</LoadOrder></Properties><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="VLR_Maria_Theresa.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ArtDefs\Leaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ArtDefs\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
