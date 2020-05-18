@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	244064454	MariaTheresaPeaceful			\Default Work Unit\MariaTheresaPeaceful	
+	1181399669	MariaTheresaDeclareWar			\Default Work Unit\MariaTheresaDeclareWar	
+	1197305831	MariaTheresaHateHello			\Default Work Unit\MariaTheresaHateHello	
+	1439228225	MariaTheresaIntro			\Default Work Unit\MariaTheresaIntro	
+	2606676151	MariaTheresaDefeated			\Default Work Unit\MariaTheresaDefeated	
+	4255762458	MariaTheresaAttacked			\Default Work Unit\MariaTheresaAttacked	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	124121346	MariaTheresaHateHello	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\MariaTheresaHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\MariaT\MariaTheresaHateHello		140608
+	303822754	MariaTheresaDefeated	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\MariaTheresaDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\MariaT\MariaTheresaDefeated		672832
+	317737489	MariaTheresaPeaceful	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\MariaTheresaPeaceful_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\MariaT\MariaTheresaPeaceful		555328
+	604373510	MariaTheresaIntro	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\MariaTheresaIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\MariaT\MariaTheresaIntro		852544
+	638362991	MariaTheresaAttacked	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\MariaTheresaAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\MariaT\MariaTheresaAttacked		460864
+	741106476	MariaTheresaDeclareWar	C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\SFX\MariaTheresaDeclareWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\MariaT\MariaTheresaDeclareWar		843328
+

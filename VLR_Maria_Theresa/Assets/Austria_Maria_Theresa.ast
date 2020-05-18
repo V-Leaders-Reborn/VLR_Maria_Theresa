@@ -249,7 +249,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_intro"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="1"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaIntro"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -282,7 +294,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_attacked"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="2"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaAttacked"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -315,7 +339,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_declare_war"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="3"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaDeclareWar"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -348,7 +384,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_peaceful"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="4"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaPeaceful"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -381,7 +429,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_hate_idle"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="5"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaHateHello"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -414,7 +474,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_defeated"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="6"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaDefeated"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -447,7 +519,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_declare_war"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="7"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaDeclareWar"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>

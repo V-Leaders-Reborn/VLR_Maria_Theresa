@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\User\Documents\WwiseProjects\Gajah_Mada\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="864104697" Language="SFX">
+			<ShortName>MariaT_Soundbank</ShortName>
+			<Path>MariaT_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4255762458" Name="MariaTheresaAttacked"/>
+				<Event Id="1181399669" Name="MariaTheresaDeclareWar"/>
+				<Event Id="2606676151" Name="MariaTheresaDefeated"/>
+				<Event Id="1197305831" Name="MariaTheresaHateHello"/>
+				<Event Id="1439228225" Name="MariaTheresaIntro"/>
+				<Event Id="244064454" Name="MariaTheresaPeaceful"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="124121346" Language="SFX">
+					<ShortName>MariaTheresaHateHello.wav</ShortName>
+					<Path>SFX\MariaTheresaHateHello_9E69E797.wem</Path>
+				</File>
+				<File Id="303822754" Language="SFX">
+					<ShortName>MariaTheresaDefeated.wav</ShortName>
+					<Path>SFX\MariaTheresaDefeated_9E69E797.wem</Path>
+				</File>
+				<File Id="317737489" Language="SFX">
+					<ShortName>MariaTheresaPeaceful.wav</ShortName>
+					<Path>SFX\MariaTheresaPeaceful_9E69E797.wem</Path>
+				</File>
+				<File Id="604373510" Language="SFX">
+					<ShortName>MariaTheresaIntro.wav</ShortName>
+					<Path>SFX\MariaTheresaIntro_9E69E797.wem</Path>
+				</File>
+				<File Id="638362991" Language="SFX">
+					<ShortName>MariaTheresaAttacked.wav</ShortName>
+					<Path>SFX\MariaTheresaAttacked_9E69E797.wem</Path>
+				</File>
+				<File Id="741106476" Language="SFX">
+					<ShortName>MariaTheresaDeclareWar.wav</ShortName>
+					<Path>SFX\MariaTheresaDeclareWar_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

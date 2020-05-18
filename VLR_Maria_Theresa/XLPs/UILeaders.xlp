@@ -21,6 +21,38 @@
 			<m_EntryID text="LEADER_MER_MARIA_THERESA_NEUTRAL"/>
 			<m_ObjectName text="LEADER_MER_MARIA_THERESA_NEUTRAL"/>
 		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MER_MARIA_THERESA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MER_MARIA_THERESA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_256"/>
+			<m_ObjectName text="maria_theresa_alpha_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_32"/>
+			<m_ObjectName text="maria_theresa_alpha_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_45"/>
+			<m_ObjectName text="maria_theresa_alpha_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_50"/>
+			<m_ObjectName text="maria_theresa_alpha_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_55"/>
+			<m_ObjectName text="maria_theresa_alpha_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_64"/>
+			<m_ObjectName text="maria_theresa_alpha_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="maria_theresa_alpha_80"/>
+			<m_ObjectName text="maria_theresa_alpha_80"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
