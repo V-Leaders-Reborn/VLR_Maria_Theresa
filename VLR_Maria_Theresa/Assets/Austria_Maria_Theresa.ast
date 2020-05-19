@@ -248,7 +248,7 @@
                         <m_Name text="01_FIRST_MEET"/>
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_intro"/>
-                        <m_fDuration>0.000000</m_fDuration>
+                        <m_fDuration>10.333333</m_fDuration>
                         <m_Triggers>
                             <Element>
                                 <m_eType>SOUND</m_eType>
@@ -257,8 +257,8 @@
                                 <m_FXName text="MariaTheresaIntro"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>0.668518245</m_fStartTime>
+                                <m_fDuration>9.665</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -302,8 +302,8 @@
                                 <m_FXName text="MariaTheresaAttacked"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>0.33518523</m_fStartTime>
+                                <m_fDuration>5.224</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -347,8 +347,8 @@
                                 <m_FXName text="MariaTheresaDeclareWar"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>0.666668</m_fStartTime>
+                                <m_fDuration>9.561</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -392,8 +392,8 @@
                                 <m_FXName text="MariaTheresaPeaceful"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>0.140740708</m_fStartTime>
+                                <m_fDuration>6.296</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -437,8 +437,8 @@
                                 <m_FXName text="MariaTheresaHateHello"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>1.33333588</m_fStartTime>
+                                <m_fDuration>1.593</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -482,8 +482,8 @@
                                 <m_FXName text="MariaTheresaDefeated"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>0.666668</m_fStartTime>
+                                <m_fDuration>7.628</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -527,8 +527,8 @@
                                 <m_FXName text="MariaTheresaDeclareWar"/>
                                 <m_CollectionName text=""/>
                                 <m_AttachmentPointName text=""/>
-                                <m_fStartTime>0.000000</m_fStartTime>
-                                <m_fDuration>0.000000</m_fDuration>
+                                <m_fStartTime>0.666668</m_fStartTime>
+                                <m_fDuration>9.561</m_fDuration>
                                 <m_nTrackIndex>0</m_nTrackIndex>
                             </Element>
                         </m_Triggers>
@@ -564,7 +564,19 @@
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_neutral_idle"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="8"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaStop"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -598,32 +610,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="NEUTRAL_NEGATIVE_B"/>
@@ -631,32 +617,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="NEUTRAL_POSITIVE_A"/>
@@ -664,32 +624,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="NEUTRAL_POSITIVE_B"/>
@@ -697,39 +631,25 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="HAPPY_IDLE_A"/>
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_neutral_idle"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="9"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaStop"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -763,32 +683,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="HAPPY_NEGATIVE_B"/>
@@ -796,32 +690,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="HAPPY_POSITIVE_A"/>
@@ -829,32 +697,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="HAPPY_POSITIVE_B"/>
@@ -862,39 +704,25 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="UNHAPPY_IDLE_A"/>
                         <m_Description text=""/>
                         <m_AnimationName text="austria_maria_theresa_hate_idle"/>
                         <m_fDuration>0.000000</m_fDuration>
-                        <m_Triggers/>
+                        <m_Triggers>
+                            <Element>
+                                <m_eType>SOUND</m_eType>
+                                <m_Name text="10"/>
+                                <m_Description text=""/>
+                                <m_FXName text="MariaTheresaStop"/>
+                                <m_CollectionName text=""/>
+                                <m_AttachmentPointName text=""/>
+                                <m_fStartTime>0.000000</m_fStartTime>
+                                <m_fDuration>0.000000</m_fDuration>
+                                <m_nTrackIndex>0</m_nTrackIndex>
+                            </Element>
+                        </m_Triggers>
                         <m_Tracks>
                             <Element>
                                 <m_Name text="Sound"/>
@@ -928,32 +756,6 @@
                         <m_AnimationName text="austria_maria_theresa_hate_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="UNHAPPY_NEGATIVE_B"/>
@@ -961,32 +763,6 @@
                         <m_AnimationName text="austria_maria_theresa_hate_no_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="UNHAPPY_POSITIVE_A"/>
@@ -994,32 +770,6 @@
                         <m_AnimationName text="austria_maria_theresa_hate_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="UNHAPPY_POSITIVE_B"/>
@@ -1027,32 +777,6 @@
                         <m_AnimationName text="austria_maria_theresa_hate_yes_gesture"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="NEUTRAL_TO_HAPPY"/>
@@ -1060,32 +784,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_idle"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="NEUTRAL_TO_ENRAGED"/>
@@ -1093,32 +791,6 @@
                         <m_AnimationName text="austria_maria_theresa_trans_neutral_attack"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="NEUTRAL_TO_UNHAPPY"/>
@@ -1126,32 +798,6 @@
                         <m_AnimationName text="austria_maria_theresa_trans_neutral_attack"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="HAPPY_TO_NEUTRAL"/>
@@ -1159,32 +805,6 @@
                         <m_AnimationName text="austria_maria_theresa_neutral_idle"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="HAPPY_TO_ENRAGED"/>
@@ -1192,32 +812,6 @@
                         <m_AnimationName text="austria_maria_theresa_trans_neutral_attack"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="UNHAPPY_TO_NEUTRAL"/>
@@ -1225,32 +819,6 @@
                         <m_AnimationName text="austria_maria_theresa_trans_hate_peaceful"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                     <Element>
                         <m_Name text="UNHAPPY_TO_ENRAGED"/>
@@ -1258,32 +826,6 @@
                         <m_AnimationName text="austria_maria_theresa_trans_hate_attack"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers/>
-                        <m_Tracks>
-                            <Element>
-                                <m_Name text="Sound"/>
-                                <m_Type>SOUND</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Asset VFX"/>
-                                <m_Type>ASSET_FX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Transfer"/>
-                                <m_Type>TRANSFER</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Action"/>
-                                <m_Type>ACTION</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="ArtDef VFX"/>
-                                <m_Type>ARTDEF_VFX</m_Type>
-                            </Element>
-                            <Element>
-                                <m_Name text="Light"/>
-                                <m_Type>LIGHT</m_Type>
-                            </Element>
-                        </m_Tracks>
                     </Element>
                 </m_Timelines>
             </m_timelines>

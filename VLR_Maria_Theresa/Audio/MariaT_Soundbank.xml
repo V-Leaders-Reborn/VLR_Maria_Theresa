@@ -21,6 +21,7 @@
 				<Event Id="1197305831" Name="MariaTheresaHateHello"/>
 				<Event Id="1439228225" Name="MariaTheresaIntro"/>
 				<Event Id="244064454" Name="MariaTheresaPeaceful"/>
+				<Event Id="2740728261" Name="MariaTheresaStop"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
 				<File Id="124121346" Language="SFX">

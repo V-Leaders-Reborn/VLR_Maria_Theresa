@@ -4,6 +4,7 @@ Event	ID	Name			Wwise Object Path	Notes
 	1197305831	MariaTheresaHateHello			\Default Work Unit\MariaTheresaHateHello	
 	1439228225	MariaTheresaIntro			\Default Work Unit\MariaTheresaIntro	
 	2606676151	MariaTheresaDefeated			\Default Work Unit\MariaTheresaDefeated	
+	2740728261	MariaTheresaStop			\Default Work Unit\MariaTheresaStop	
 	4255762458	MariaTheresaAttacked			\Default Work Unit\MariaTheresaAttacked	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
