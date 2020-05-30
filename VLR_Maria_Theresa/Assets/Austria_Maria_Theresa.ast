@@ -22,7 +22,7 @@
                     </Element>
                     <Element>
                         <m_SlotName text="05_WARNING"/>
-                        <m_AnimationName text="austria_maria_theresa_hate_idle"/>
+                        <m_AnimationName text="austria_maria_theresa_hate_hello"/>
                     </Element>
                     <Element>
                         <m_SlotName text="06_DEFEAT"/>
@@ -427,7 +427,7 @@
                     <Element>
                         <m_Name text="05_WARNING"/>
                         <m_Description text=""/>
-                        <m_AnimationName text="austria_maria_theresa_hate_idle"/>
+                        <m_AnimationName text="austria_maria_theresa_hate_hello"/>
                         <m_fDuration>0.000000</m_fDuration>
                         <m_Triggers>
                             <Element>
