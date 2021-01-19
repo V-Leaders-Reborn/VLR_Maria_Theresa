@@ -1,3 +1,3 @@
 UPDATE LoadingInfo 
-SET    BackgroundImage = 'LEADER_MER_MARIA_THERESA_BACKGROUND'
+SET    BackgroundImage = 'LEADER_MER_MARIA_THERESA_BACKGROUND', PlayDawnOfManAudio = 0
 WHERE  LeaderType = 'LEADER_MER_MARIA_THERESA';
